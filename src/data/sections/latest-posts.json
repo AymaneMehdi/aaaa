@@ -1,8 +1,8 @@
 {
-    "title": "Blogs",
+    "title": "Popular Publications:",
     "button": {
         "link": "/blog",
-        "button": "Voir plus"
+        "button": "View all"
     },
     "numOfItems": 2
 }

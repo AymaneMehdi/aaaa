@@ -1,25 +1,28 @@
 ---
 #preview
-title: "Play to Your Strengths "
-date: "2022-01-02"
-image: "/img/blog/seo.jpg"
-
+title: 'Play to Your Strengths and Supercharge Your Business'
+date: '2022-01-02'
+image: "/img/blog/5.jpg"
+category:
+    - Art
+categories:
+    - art
 short: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos.
 
 #full details
 introTitle: Play to Your Strengths and<br> <span class="mil-thin">Supercharge</span> Your <span class="mil-thin">Business</span>
 
 author:
-  name: "feizhoucom"
+    name: "Paul Trueman"
 
 gallery:
-  enabled: 1
-  items:
-    - image: /img/blog/seo.jpg
-      alt: "image"
+    enabled: 1
+    items:
+        - image: /img/blog/3.jpg
+          alt: "image"
 
-    - image: /img/blog/seo.jpg
-      alt: "image"
+        - image: /img/blog/2.jpg
+          alt: "image"
 ---
 
 Gutem temporibus quae facilis totam, dolorem laborum optio laudantium explicabo quia ea. Officia beatae excepturi adipisci? Nobis consequatur ullam officiis adipisci assumenda, voluptas optio, commodi, soluta itaque error consectetur cupiditate vero voluptatem architecto blanditiis quidem amet. Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.

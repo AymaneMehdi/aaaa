@@ -35,13 +35,18 @@ const Layouts = ({
 
       <ScrollbarProgress />
 
-      {!noHeader && <Header layout={header} extraclassName={extraClass} />}
+      {!noHeader && (
+        <Header
+          layout={header}
+          extraclassName={extraClass}
+        />
+      )}
 
       <div className="mil-content">
         <div id="swupMain" className="mil-main-transition">
           {children}
 
-          {!noFooter && <Footer layout={footer} />}
+          {!noFooter && <Footer layout={footer} />}          
         </div>
       </div>
     </div>

@@ -9,7 +9,11 @@ const Header = ({ layout, extraClass }) => {
       return;
 
     default:
-      return <HeaderLayoutDefault />;
+      return (
+        <HeaderLayoutDefault
+          extarclassName={extraClass}
+        />
+      );
   }
 };
 export default Header;

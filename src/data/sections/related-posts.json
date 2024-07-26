@@ -2,7 +2,7 @@
     "title": "Similar Publications:",
     "numOfItems": 2,
     "button": {
-        "label": "Lire plus",
+        "label": "View all",
         "link": "/blog"
     }
 }

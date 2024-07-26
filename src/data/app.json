@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "FeizhouCom",
+        "siteName": "Ashley",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mailchimp": {
             "url": "",
@@ -100,19 +100,22 @@
     },
     "footer": {
         "logo": {
-            "text": "FeizhouCom"
+            "text": "Ashley."
         },
-        "copy": "© 2024 FeizhouCom. All Rights Reserved.",
+        "copy": "© 2023 Ashley. All Rights Reserved.",
         "menu": [
             {
-                "label": "Acceuil",
+                "label": "Home",
                 "link": "/"
             },
             {
-                "label": "Carrière",
-                "link": "/carriere"
+                "label": "Portfolio",
+                "link": "/projects"
             },
-           
+            {
+                "label": "Services",
+                "link": "/services"
+            },
             {
                 "label": "Contact",
                 "link": "/contact"

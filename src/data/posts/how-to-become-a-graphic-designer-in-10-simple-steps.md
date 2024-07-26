@@ -3,14 +3,17 @@
 title: 'How to Become a Graphic Designer in 10 Simple Steps'
 date: '2022-02-02'
 image: "/img/blog/4.jpg"
-
+category:
+    - Marketing
+categories:
+    - marketing
 short: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos.
 
 #full details
 introTitle: How to Become a <span class="mil-thin">Graphic</span><br> Designer in <span class="mil-thin">10 Simple Steps</span>
 
 author:
-    name: "feizhoucom"
+    name: "Paul Trueman"
 
 gallery:
     enabled: 1

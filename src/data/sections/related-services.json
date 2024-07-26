@@ -3,6 +3,6 @@
     "numOfItems": 3,
     "button": {
         "link": "/services",
-        "label": "Lire plus"
+        "label": "View all"
     }
 }

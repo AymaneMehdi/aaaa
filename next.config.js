@@ -1,7 +1,6 @@
-// next.config.js
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true
+}
 
-module.exports = {
-  images: {
-    domains: ['res.cloudinary.com'], // Add "res.cloudinary.com" to the list of domains
-  },
-};
+module.exports = nextConfig
