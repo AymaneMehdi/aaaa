@@ -1,0 +1,81 @@
+{
+  "title1": "NOS <span class=\"mil-thin\">SERVICES</span>",
+  "title2": "NOS <span class=\"mil-thin\">SERVICES.</span>",
+  "subtitle": "Réver grand, agisser fort, accomplissez votre succès. ",
+  "button": {
+      "link": "/services",
+      "label": "What we do"
+  },
+  "items": [
+      {
+          "title": "CRÉATION D'ÉVÉNEMENTS INSTITUTIONNELS",
+          "text": "Conception et organisation sur mesure d'événements institutionnels percutants (conférence, séminaire, journée thématique). ",
+          "link": "/services/service-1",
+          "img":"/img/photo/community.jpg",
+          "alt" : "service1"
+      },
+      {
+          "title": "CRÉATION ET ANALYSE DE SITES WEB INSTITUTIONNEL",
+          "text": "Création de sites web institutionnels en utilisant les technologies Full Stack MERN pour une présence en ligne professionnelle et sur mesure (WordPress optionnel). ",
+          "link": "/services/service-2",
+          "img":"/img/photo/web.jpg",
+          "alt" : "service2"
+      },
+      {
+          "title": "SERVICES DE TRANSCRIPTION ET TRADUCTION PROFESSIONNELLE EN ANGLAIS",
+          "text": "Transcription précise de vidéos pour une documentation claire et accessible .",
+          "link": "/services/service-3",
+          "img":"/img/photo/language.jpg",
+          "alt" : "service3"
+      },
+      {
+          "title": "PRODUCTION DE FILMS INSTITUTIONNELS",
+          "text": "Réalisation de films d'entreprise captivants pour promouvoir votre vision et vos valeurs .",
+          "link": "/services/service-4",
+          "img":"/img/photo/cinema.jpg",
+          "alt" : "service4"
+      },
+      {
+          "title": "COMMUNITY MANAGEMENT INSTITUTIONNELLE",
+          "text": "Community management ciblé sur les réseaux sociaux institutionnels tels que LinkedIn et Instagram. ",
+          "link": "/services/service-4",
+          "img":"/img/photo/management.jpg",
+          "alt" : "service5"
+      },
+      {
+          "title": "ASSISTANCE COMPLÈTE EN MÉCÉNAT ET SPONSORING",
+          "text": "Proposition de stratégies de mécénat et de sponsoring efficaces pour maximiser l'impact institutionnel. ",
+          "link": "/services/service-4",
+          "img":"/img/photo/assistante.jpg",
+          "alt" : "service6"
+      },
+      {
+          "title": "COMMUNICATION INTERNE ET ENGAGEMENT DES EMPLOYÉS",
+          "text": "Élaboration d'une stratégie de communication interne personnalisée pour renforcer la cohésion et l'engagement au sein de votre entreprise. ",
+          "link": "/services/service-4",
+          "img":"/img/photo/interne.jpg",
+          "alt" : "service7"
+      },
+      {
+          "title": "SERVICES DE RELATIONS PUBLIQUES (PRESSE)",
+          "text": "Expertise approfondie du paysage médiatique Marocain, assurant une stratégie de communication adaptée et efficace. ",
+          "link": "/services/service-4",
+          "img":"/img/photo/relation.jpg",
+          "alt" : "service8"
+      },
+      {
+          "title": "FORMATION EN COMMUNICATION INSTITUTIONNELLE ET DIGITALE ",
+          "text": "Offre de formations complètes couvrant divers aspects de la communication institutionnelle, adaptées aux besoins spécifiques de votre organisation. ",
+          "link": "/services/service-4",
+          "img":"/img/photo/formation.jpg",
+          "alt" : "service9"
+      },
+      {
+          "title": "Création de Sites Web Écologiques",
+          "text": "Conception de sites web respectueux de l'environnement en utilisant des pratiques et des technologies durables.Intégration de solutions éco-responsables pour minimiser l'empreinte carbone du site et favoriser la durabilité environnementale.",
+          "link": "/services/service-4",
+          "img":"/img/photo/wevi.jpg",
+          "alt" : "service9"
+      }
+  ]
+}
