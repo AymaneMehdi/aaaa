@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "siteName": "FeizhouCom",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        }
+    }
+}

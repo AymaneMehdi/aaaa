@@ -1,0 +1,58 @@
+/* hero.module.css */
+
+/* General styles for smaller screens */
+.mil-banner-content {
+  text-align: center;
+  padding: 20px;
+}
+
+.mil-banner-content h1 {
+  font-size: 2.5rem; /* Adjust font size */
+}
+
+.mil-banner-content .text-9xl {
+  font-size: 2rem; /* Adjust font size for "NOUS" */
+}
+
+.mil-banner-content .text-6xl {
+  font-size: 1.5rem; /* Adjust font size for the paragraph */
+  margin-bottom: 20px;
+}
+
+.mil-button {
+  padding: 10px 20px; /* Adjust button padding */
+}
+
+.mil-circle-text svg {
+  width: 150px; /* Adjust circle size */
+  height: 150px;
+}
+
+@media (max-width: 320px) {
+  .mil-banner-content {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .mil-banner-content h1 {
+    font-size: 2rem; /* Further adjust font size */
+  }
+
+  .mil-banner-content .text-9xl {
+    font-size: 1.5rem; /* Further adjust font size for "NOUS" */
+  }
+
+  .mil-banner-content .text-6xl {
+    font-size: 1.2rem; /* Further adjust font size for the paragraph */
+    margin-bottom: 15px;
+  }
+
+  .mil-button {
+    padding: 8px 16px; /* Further adjust button padding */
+  }
+
+  .mil-circle-text svg {
+    width: 120px; /* Further adjust circle size */
+    height: 120px;
+  }
+}
